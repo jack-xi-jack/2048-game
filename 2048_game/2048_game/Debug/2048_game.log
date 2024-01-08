@@ -1,0 +1,3 @@
+﻿  main.cpp
+J:\c语言黑马\2048游戏\2048_game\2048_game\main.cpp(34,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  2048_game.vcxproj -> J:\c语言黑马\2048游戏\2048_game\Debug\2048_game.exe
